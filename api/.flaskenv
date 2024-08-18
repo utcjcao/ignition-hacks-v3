@@ -1,0 +1,2 @@
+FLASK_APP=emotion-detector.py
+FLASK_ENV=development
